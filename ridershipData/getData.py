@@ -4,8 +4,7 @@ import time
 
 base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 SQL = """
-SELECT origin_station_complex_name, destination_station_complex_name, max(estimated_average_ridership)
-GROUP BY origin_station_complex_name, destination_station_complex_name
+select count(*)
 """
 limit = 1000
 offset = 0
