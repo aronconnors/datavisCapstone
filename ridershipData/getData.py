@@ -3,23 +3,33 @@ import csv
 import time
 
 base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
+#####
+#SoSQL supports: [select, where, group by, having, aggregations]
+#SoSQL doesn't support: [joins, subqueries, with statements, this doesnt seem to support unions either]
+#####
 SQL = """
 SELECT
+    origin_station_complex_name,
     month,
     day_of_week,
     hour_of_day,
-    destination_station_complex_name,
     sum(estimated_average_ridership)
 GROUP BY
-    destination_station_complex_name,
+    origin_station_complex_name,
+    month,
+    day_of_week,
+    hour_of_day
+ORDER BY
+    origin_station_complex_name,
     month,
     day_of_week,
     hour_of_day
 """
 
-file = "arrivals_output.csv"
+file = "departures_output.csv"
 
-limit = 999
+#TODO remove limit?
+limit = 1000
 offset = 0
 all_data = []
 with open(file, "w", newline='', encoding='utf-8') as csvfile:
@@ -27,15 +37,44 @@ with open(file, "w", newline='', encoding='utf-8') as csvfile:
     header = True
     while True:
         paginated_query = f"{SQL} LIMIT {limit} OFFSET {offset}"
+
         params = {
             "$query": paginated_query
+        }
+
+        #best practice is to hardcode the API key just like this LMAO
+        headers = {
+            "X-App-Token": 'ufDxorYpothxuRuzrTA0PN9RH'
         }
         if header:
             print('getting...')
         else:
             print('getting more...')
 
-        response = requests.get(base_url, params=params)
+        #only break when we get a difinitive thing that goes wrong, don't move on to the next batch until success
+        while True:
+            #set a timeout in the HTTP request or else it just chills and waits
+            try:
+                response = requests.get(base_url, params=params, headers=headers, timeout=30)
+                if response.status_code == 200:
+                    break
+                #HTTP status 429 means too many requests. explicit API throttling
+                elif response.status_code == 429:
+                    print("Rate limited. Waiting 1 hour...")
+                    time.sleep(3600)
+                #any other HTTP status issue
+                else:
+                    print(f"Error {response.status_code}. Retrying in 1 minute...")
+                    print(response)
+                    time.sleep(60)
+            #Timeout HTTP requests because this API apparrently just ignores requests based on traffic and request frequency (by IP)
+            except requests.exceptions.Timeout:
+                print("Timeout. Retrying in 1 minute...")
+                time.sleep(60)
+            #TODO what is this doing
+            except requests.exceptions.RequestException as e:
+                print(f"Request error: {e}. Retrying in 1 minute...")
+                time.sleep(60)
         data = response.json()
         print('got')
 
@@ -47,14 +86,17 @@ with open(file, "w", newline='', encoding='utf-8') as csvfile:
             print("Done")
             break
 
-        #increase the offset by the limit size so we can get the next piece of the response sequentially
+        #increase the offset by the length of whatever is returned, not the limit
+        #sometimes the API just decides to respond with less than 1000
         offset += len(data)
 
+        #take it real slow or else they throttle tf out of us
+        #TODO add random delay so that its not the same script always sending requests first if you're running more than one at a time
         time.sleep(60)
 
 
-    #save output to csv file and save seperately when necessary
-        
+        #save output to csv file and save seperately when necessary
+        #TODO shoult this writer object be outside the loop? this works ig
         writer = csv.DictWriter(csvfile, fieldnames=data[0].keys())
         if header:
             writer.writeheader()
