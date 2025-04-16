@@ -9,24 +9,11 @@ base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 #####
 SQL = """
 SELECT
-    origin_station_complex_name,
-    month,
-    day_of_week,
-    hour_of_day,
-    sum(estimated_average_ridership)
-GROUP BY
-    origin_station_complex_name,
-    month,
-    day_of_week,
-    hour_of_day
-ORDER BY
-    origin_station_complex_name,
-    month,
-    day_of_week,
-    hour_of_day
+    count(distinct origin_station_complex_name),
+    count(distinct destination_station_complex_name)
 """
 
-file = "output/departures_output.csv"
+file = "output/stations.csv"
 
 #TODO remove limit?
 limit = 1000

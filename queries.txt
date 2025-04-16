@@ -36,3 +36,17 @@ ORDER BY
     month,
     day_of_week,
     hour_of_day
+
+
+Departures weekday average
+SELECT
+    origin_station_complex_name,
+    day_of_week,
+    hour_of_day,
+    avg(sum_estimated_average_ridership)
+FROM
+    df
+GROUP BY
+    origin_station_complex_name,
+    day_of_week,
+    hour_of_day
