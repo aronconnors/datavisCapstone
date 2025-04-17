@@ -50,3 +50,40 @@ GROUP BY
     origin_station_complex_name,
     day_of_week,
     hour_of_day
+
+
+
+to the sun
+
+SELECT
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude,
+    sum(estimated_average_ridership)
+GROUP BY
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude
+ORDER BY
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude
+
+
+COORDINATES:
+
+SELECT DISTINCT
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude
+ORDER BY
+    origin_station_complex_name

@@ -8,31 +8,15 @@ base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 #SoSQL doesn't support: [joins, subqueries, with statements, this doesnt seem to support unions either]
 #####
 SQL = """
-SELECT
+SELECT DISTINCT
     origin_station_complex_name,
     origin_latitude,
-    origin_longitude,
-    destination_station_complex_name,
-    destination_latitude,
-    destination_longitude,
-    sum(estimated_average_ridership)
-GROUP BY
-    origin_station_complex_name,
-    origin_latitude,
-    origin_longitude,
-    destination_station_complex_name,
-    destination_latitude,
-    destination_longitude
+    origin_longitude
 ORDER BY
-    origin_station_complex_name,
-    origin_latitude,
-    origin_longitude,
-    destination_station_complex_name,
-    destination_latitude,
-    destination_longitude
+    origin_station_complex_name
 """
 
-file = "output/toTheSun.csv"
+file = "output/coordinates.csv"
 
 #TODO remove limit?
 limit = 1000
