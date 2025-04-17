@@ -9,11 +9,30 @@ base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 #####
 SQL = """
 SELECT
-    count(distinct origin_station_complex_name),
-    count(distinct destination_station_complex_name)
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude,
+    sum(estimated_average_ridership)
+GROUP BY
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude
+ORDER BY
+    origin_station_complex_name,
+    origin_latitude,
+    origin_longitude,
+    destination_station_complex_name,
+    destination_latitude,
+    destination_longitude
 """
 
-file = "output/stations.csv"
+file = "output/toTheSun.csv"
 
 #TODO remove limit?
 limit = 1000
