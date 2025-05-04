@@ -9,10 +9,10 @@ the API would just stop working instead of failing gracefully. Sometimes it woul
 for queries returning millions of records'''
 
 #destination origin subway dataset
-#base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
+base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 
 #police precinct
-base_url = "https://data.cityofnewyork.us/resource/y76i-bdw7.json"
+#base_url = "https://data.cityofnewyork.us/resource/y76i-bdw7.json"
 
 
 #####
@@ -20,10 +20,10 @@ base_url = "https://data.cityofnewyork.us/resource/y76i-bdw7.json"
 #SoSQL doesn't support: [joins, subqueries, with statements, this doesnt seem to support unions either]
 #####
 SQL = """
-SELECT *
+SELECT count(*)
 """
 
-file = "output/policePrecincts.csv"
+file = "output/howManyRecords.csv"
 
 limit = 1000
 offset = 0
@@ -51,7 +51,7 @@ with open(file, "w", newline='', encoding='utf-8') as csvfile:
         while True:
             #set a timeout in the HTTP request or else it just chills and waits
             try:
-                response = requests.get(base_url, params=params, headers=headers, timeout=30)
+                response = requests.get(base_url, params=params, headers=headers, timeout=60)
                 if response.status_code == 200:
                     break
                 #HTTP status 429 means too many requests. explicit API throttling
