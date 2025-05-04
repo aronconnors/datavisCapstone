@@ -1,0 +1,753 @@
+<html><body><div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:130.1pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 01</span></b></p>
+<p style="top:130.1pt;left:328.3pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Complaints</span></b></p>
+<p style="top:144.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">010</span></b></p>
+<p style="top:158.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:158.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:173.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">010 Total</span></b></p>
+<p style="top:173.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:188.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014</span></b></p>
+<p style="top:201.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:201.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">7</span></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">7</span></p>
+<p style="top:230.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:230.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:245.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:245.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:274.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:274.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:289.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014 Total</span></b></p>
+<p style="top:289.8pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">24</span></b></p>
+<p style="top:304.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">018</span></b></p>
+<p style="top:318.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:318.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:332.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:332.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:376.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:391.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">018 Total</span></b></p>
+<p style="top:391.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">13</span></b></p>
+<p style="top:406.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">019</span></b></p>
+<p style="top:419.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:419.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:435.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">019 Total</span></b></p>
+<p style="top:435.0pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:449.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">020</span></b></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:477.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:477.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">020 Total</span></b></p>
+<p style="top:493.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">7</span></b></p>
+<p style="top:507.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">024</span></b></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:536.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">024 Total</span></b></p>
+<p style="top:536.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:551.2pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 01 Total</span></b></p>
+<p style="top:551.2pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">47</span></b></p>
+<p style="top:565.7pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 02</span></b></p>
+<p style="top:580.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">001</span></b></p>
+<p style="top:593.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:593.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:622.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:622.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:637.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:637.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:652.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:652.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:667.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">001 Total</span></b></p>
+<p style="top:667.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">13</span></b></p>
+<p style="top:681.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">005</span></b></p>
+<p style="top:695.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:695.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:710.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:710.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+<p style="top:724.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:724.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:114.7pt;left:52.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Section I - Transit Jurisdiction Complaints by Transit District and Precinct</span></b></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:114.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:114.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:129.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:129.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:144.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">005 Total</span></b></p>
+<p style="top:144.6pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">12</span></b></p>
+<p style="top:159.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">006</span></b></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+<p style="top:187.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:187.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:201.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:201.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:231.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">006 Total</span></b></p>
+<p style="top:231.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">9</span></b></p>
+<p style="top:246.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">010</span></b></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:275.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">010 Total</span></b></p>
+<p style="top:275.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:289.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">013</span></b></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:318.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">013 Total</span></b></p>
+<p style="top:318.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:333.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014</span></b></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:376.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:390.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:390.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:406.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014 Total</span></b></p>
+<p style="top:406.0pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">8</span></b></p>
+<p style="top:420.5pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 02 Total</span></b></p>
+<p style="top:420.5pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">47</span></b></p>
+<p style="top:435.0pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 03</span></b></p>
+<p style="top:449.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">024</span></b></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:477.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">DISORDERLY CONDUCT</span></p>
+<p style="top:477.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:492.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:492.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:507.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">024 Total</span></b></p>
+<p style="top:507.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:522.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">026</span></b></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:550.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:550.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:564.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:564.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:579.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:579.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:593.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:593.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:609.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">026 Total</span></b></p>
+<p style="top:609.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">8</span></b></p>
+<p style="top:623.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">028</span></b></p>
+<p style="top:637.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:637.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:652.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:652.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:666.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:666.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:681.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">028 Total</span></b></p>
+<p style="top:681.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:696.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">030</span></b></p>
+<p style="top:710.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:710.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:724.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:724.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:115.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">030 Total</span></b></p>
+<p style="top:115.5pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:130.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">032</span></b></p>
+<p style="top:143.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:143.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:158.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:158.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:187.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:187.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:202.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">032 Total</span></b></p>
+<p style="top:202.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">6</span></b></p>
+<p style="top:217.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">033</span></b></p>
+<p style="top:230.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:230.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:246.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">033 Total</span></b></p>
+<p style="top:246.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:260.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">034</span></b></p>
+<p style="top:274.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:274.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:288.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:288.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:318.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">034 Total</span></b></p>
+<p style="top:318.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:333.4pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 03 Total</span></b></p>
+<p style="top:333.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">29</span></b></p>
+<p style="top:347.9pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 04</span></b></p>
+<p style="top:362.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">005</span></b></p>
+<p style="top:376.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:376.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:390.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:390.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:406.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">005 Total</span></b></p>
+<p style="top:406.0pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">4</span></b></p>
+<p style="top:420.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">007</span></b></p>
+<p style="top:434.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:434.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">007 Total</span></b></p>
+<p style="top:478.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">4</span></b></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">009</span></b></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:551.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">009 Total</span></b></p>
+<p style="top:551.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:565.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">013</span></b></p>
+<p style="top:579.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:579.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:593.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:593.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">8</span></p>
+<p style="top:622.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:622.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:638.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">013 Total</span></b></p>
+<p style="top:638.3pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">15</span></b></p>
+<p style="top:652.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014</span></b></p>
+<p style="top:666.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:666.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:695.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:695.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:710.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:710.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:725.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">014 Total</span></b></p>
+<p style="top:725.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">8</span></b></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:115.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">017</span></b></p>
+<p style="top:129.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:129.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:143.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:143.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:159.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">017 Total</span></b></p>
+<p style="top:159.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">4</span></b></p>
+<p style="top:173.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">019</span></b></p>
+<p style="top:187.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:187.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:201.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:201.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:230.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:230.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:245.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:245.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:260.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">019 Total</span></b></p>
+<p style="top:260.8pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">15</span></b></p>
+<p style="top:275.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">025</span></b></p>
+<p style="top:288.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:288.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">DISORDERLY CONDUCT</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:318.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:318.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:333.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">025 Total</span></b></p>
+<p style="top:333.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">9</span></b></p>
+<p style="top:347.9pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 04 Total</span></b></p>
+<p style="top:347.9pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">62</span></b></p>
+<p style="top:362.4pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 11</span></b></p>
+<p style="top:376.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">040</span></b></p>
+<p style="top:390.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:390.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">7</span></p>
+<p style="top:405.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:405.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:419.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:419.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:434.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:434.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">040 Total</span></b></p>
+<p style="top:478.6pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">15</span></b></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">044</span></b></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:550.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:550.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:565.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">044 Total</span></b></p>
+<p style="top:565.7pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">13</span></b></p>
+<p style="top:580.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">046</span></b></p>
+<p style="top:593.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:593.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:609.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">046 Total</span></b></p>
+<p style="top:609.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:623.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">052</span></b></p>
+<p style="top:637.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:637.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:652.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:652.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:666.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:666.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:681.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">052 Total</span></b></p>
+<p style="top:681.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">4</span></b></p>
+<p style="top:696.4pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 11 Total</span></b></p>
+<p style="top:696.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">33</span></b></p>
+<p style="top:710.9pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 12</span></b></p>
+<p style="top:725.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">040</span></b></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:114.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:114.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:129.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:129.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:144.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">040 Total</span></b></p>
+<p style="top:144.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:159.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">041</span></b></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:187.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:187.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:201.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:201.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:230.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:230.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:245.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:245.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:260.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">041 Total</span></b></p>
+<p style="top:260.8pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">11</span></b></p>
+<p style="top:275.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">042</span></b></p>
+<p style="top:288.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:288.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:304.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">042 Total</span></b></p>
+<p style="top:304.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:318.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">043</span></b></p>
+<p style="top:332.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:332.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:362.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">043 Total</span></b></p>
+<p style="top:362.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:376.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">047</span></b></p>
+<p style="top:390.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:390.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:405.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:405.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:419.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:419.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:435.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">047 Total</span></b></p>
+<p style="top:435.0pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:449.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">048</span></b></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">048 Total</span></b></p>
+<p style="top:478.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">049</span></b></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:522.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">049 Total</span></b></p>
+<p style="top:522.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:536.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">052</span></b></p>
+<p style="top:550.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:550.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:564.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:564.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:579.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:579.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:594.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">052 Total</span></b></p>
+<p style="top:594.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:609.3pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 12 Total</span></b></p>
+<p style="top:609.3pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">34</span></b></p>
+<p style="top:623.8pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 20</span></b></p>
+<p style="top:638.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">102</span></b></p>
+<p style="top:652.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:652.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:666.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:666.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:696.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">102 Total</span></b></p>
+<p style="top:696.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">4</span></b></p>
+<p style="top:710.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">103</span></b></p>
+<p style="top:724.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:724.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">5</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:114.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">DANGEROUS WEAPONS</span></p>
+<p style="top:114.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:130.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">103 Total</span></b></p>
+<p style="top:130.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:144.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">107</span></b></p>
+<p style="top:158.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:158.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:188.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">107 Total</span></b></p>
+<p style="top:188.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:202.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">108</span></b></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:230.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:230.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:245.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:245.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:275.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">108 Total</span></b></p>
+<p style="top:275.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">9</span></b></p>
+<p style="top:289.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">109</span></b></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:318.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:318.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:333.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">109 Total</span></b></p>
+<p style="top:333.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:347.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">110</span></b></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:376.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:390.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:390.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:405.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:405.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:420.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">110 Total</span></b></p>
+<p style="top:420.5pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">12</span></b></p>
+<p style="top:435.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">112</span></b></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">112 Total</span></b></p>
+<p style="top:478.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">114</span></b></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:551.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">114 Total</span></b></p>
+<p style="top:551.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">8</span></b></p>
+<p style="top:565.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">115</span></b></p>
+<p style="top:579.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:579.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">9</span></p>
+<p style="top:593.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:593.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:623.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">115 Total</span></b></p>
+<p style="top:623.8pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">11</span></b></p>
+<p style="top:638.3pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 20 Total</span></b></p>
+<p style="top:638.3pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">54</span></b></p>
+<p style="top:652.9pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 23</span></b></p>
+<p style="top:667.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">100</span></b></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:696.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">100 Total</span></b></p>
+<p style="top:696.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:710.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">101</span></b></p>
+<p style="top:724.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:724.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:115.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">101 Total</span></b></p>
+<p style="top:115.5pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:130.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">106</span></b></p>
+<p style="top:143.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:143.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:159.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">106 Total</span></b></p>
+<p style="top:159.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:173.6pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 23 Total</span></b></p>
+<p style="top:173.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:188.1pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 30</span></b></p>
+<p style="top:202.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">072</span></b></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:231.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">072 Total</span></b></p>
+<p style="top:231.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:246.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">076</span></b></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:274.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:274.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:289.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">076 Total</span></b></p>
+<p style="top:289.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:304.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">079</span></b></p>
+<p style="top:318.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:318.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:332.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:332.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">4</span></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">079 Total</span></b></p>
+<p style="top:376.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">8</span></b></p>
+<p style="top:391.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">084</span></b></p>
+<p style="top:405.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:405.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">8</span></p>
+<p style="top:419.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:419.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:434.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:434.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">6</span></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:477.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:477.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:492.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:492.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:507.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">084 Total</span></b></p>
+<p style="top:507.6pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">23</span></b></p>
+<p style="top:522.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">088</span></b></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:550.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:550.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:564.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:564.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:580.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">088 Total</span></b></p>
+<p style="top:580.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:594.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">090</span></b></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:623.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">090 Total</span></b></p>
+<p style="top:623.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:638.3pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 30 Total</span></b></p>
+<p style="top:638.3pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">38</span></b></p>
+<p style="top:652.9pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 32</span></b></p>
+<p style="top:667.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">070</span></b></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:695.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:695.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:710.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">070 Total</span></b></p>
+<p style="top:710.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:725.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">071</span></b></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">7</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:114.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:114.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:130.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">071 Total</span></b></p>
+<p style="top:130.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:144.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">072</span></b></p>
+<p style="top:158.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:158.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:188.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">072 Total</span></b></p>
+<p style="top:188.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:202.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">073</span></b></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:231.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">073 Total</span></b></p>
+<p style="top:231.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:246.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">075</span></b></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:274.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:274.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:288.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:288.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:318.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">075 Total</span></b></p>
+<p style="top:318.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">6</span></b></p>
+<p style="top:333.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">077</span></b></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:376.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:391.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">077 Total</span></b></p>
+<p style="top:391.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:406.0pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">078</span></b></p>
+<p style="top:419.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:419.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:434.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:434.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:463.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFFENSES AGAINST THE PERSON</span></p>
+<p style="top:463.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">078 Total</span></b></p>
+<p style="top:478.6pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">6</span></b></p>
+<p style="top:493.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">084</span></b></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:535.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:535.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:551.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">084 Total</span></b></p>
+<p style="top:551.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:565.7pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 32 Total</span></b></p>
+<p style="top:565.7pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">28</span></b></p>
+<p style="top:580.2pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 33</span></b></p>
+<p style="top:594.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">069</span></b></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:623.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">069 Total</span></b></p>
+<p style="top:623.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:638.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">073</span></b></p>
+<p style="top:652.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:652.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">8</span></p>
+<p style="top:666.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">DANGEROUS WEAPONS</span></p>
+<p style="top:666.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:695.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:695.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:710.1pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:710.1pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">3</span></p>
+<p style="top:725.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">073 Total</span></b></p>
+<p style="top:725.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">17</span></b></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">8</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:115.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">075</span></b></p>
+<p style="top:129.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:129.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:143.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">DANGEROUS WEAPONS</span></p>
+<p style="top:143.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:158.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:158.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:172.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:172.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:188.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">075 Total</span></b></p>
+<p style="top:188.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">5</span></b></p>
+<p style="top:202.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">081</span></b></p>
+<p style="top:216.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:216.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:231.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">081 Total</span></b></p>
+<p style="top:231.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:246.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">083</span></b></p>
+<p style="top:259.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">MISCELLANEOUS PENAL LAW</span></p>
+<p style="top:259.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:275.3pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">083 Total</span></b></p>
+<p style="top:275.3pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:289.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">094</span></b></p>
+<p style="top:303.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:303.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:318.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">094 Total</span></b></p>
+<p style="top:318.8pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:333.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">104</span></b></p>
+<p style="top:347.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:347.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:361.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:361.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:376.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">104 Total</span></b></p>
+<p style="top:376.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:391.4pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 33 Total</span></b></p>
+<p style="top:391.4pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">28</span></b></p>
+<p style="top:406.0pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 34</span></b></p>
+<p style="top:420.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">060</span></b></p>
+<p style="top:434.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:434.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:448.7pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:448.7pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:464.1pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">060 Total</span></b></p>
+<p style="top:464.1pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:478.6pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">061</span></b></p>
+<p style="top:492.2pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:492.2pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:506.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:506.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:521.3pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">SEX CRIMES</span></p>
+<p style="top:521.3pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:536.7pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">061 Total</span></b></p>
+<p style="top:536.7pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:551.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">062</span></b></p>
+<p style="top:564.8pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:564.8pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">2</span></p>
+<p style="top:580.2pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">062 Total</span></b></p>
+<p style="top:580.2pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">2</span></b></p>
+<p style="top:594.8pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">066</span></b></p>
+<p style="top:608.4pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ASSAULT 3 &amp; RELATED OFFENSES</span></p>
+<p style="top:608.4pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:622.9pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">FELONY ASSAULT</span></p>
+<p style="top:622.9pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:637.5pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">ROBBERY</span></p>
+<p style="top:637.5pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:652.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">066 Total</span></b></p>
+<p style="top:652.9pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">3</span></b></p>
+<p style="top:667.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">068</span></b></p>
+<p style="top:681.0pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">HARRASSMENT 2</span></p>
+<p style="top:681.0pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:696.4pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">068 Total</span></b></p>
+<p style="top:696.4pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:710.9pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">070</span></b></p>
+<p style="top:724.6pt;left:67.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">OFF. AGNST PUB ORD SENSBLTY &amp;</span></p>
+<p style="top:724.6pt;left:353.5pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">1</span></p>
+<p style="top:756.8pt;left:302.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">9</span></p>
+</div>
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:56.6pt;left:80.7pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Complaints for Offenses Described in Administrative Code 14-150(d)</span></b></p>
+<p style="top:71.1pt;left:166.6pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Occuring in Transit Jurisdiction</span></b></p>
+<p style="top:85.6pt;left:215.8pt;line-height:11.0pt"><b><span style="font-family:Calibri,sans-serif;font-size:11.0pt">July 2024</span></b></p>
+<p style="top:115.5pt;left:60.6pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">070 Total</span></b></p>
+<p style="top:115.5pt;left:353.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">1</span></b></p>
+<p style="top:130.1pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Transit District 34 Total</span></b></p>
+<p style="top:130.1pt;left:350.0pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">13</span></b></p>
+<p style="top:144.6pt;left:53.1pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">Grand Total</span></b></p>
+<p style="top:144.6pt;left:346.8pt;line-height:10.0pt"><b><span style="font-family:Tahoma,sans-serif;font-size:10.0pt">416</span></b></p>
+<p style="top:172.7pt;left:52.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Source: OMAP/DAMS</span></p>
+<p style="top:187.3pt;left:52.8pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">Note: Precincts with zero complaint activity for the month are not included in this report.</span></p>
+<p style="top:756.8pt;left:299.9pt;line-height:11.0pt"><span style="font-family:Calibri,sans-serif;font-size:11.0pt">10</span></p>
+</div>
+</body></html>
