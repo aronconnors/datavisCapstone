@@ -3,6 +3,12 @@ import re
 import pandas as pd
 import numpy as np
 
+'''after a catastrophic failure trying to extract the crime data from nypd's PDFs, we shifted 
+to extracting the data from xlsx sheets. The data is honestly written in an even less programatic 
+way here, but we can use pandas for this. Using the PDF scripts as a guide for what content we 
+are extracting, we made it work using the xlsx data. This script is 100% specific to the nypd's transit crime
+excel sheets.'''
+
 #extract the data from xlsx file
 def extract(input_file, output_file):
     df = pd.read_excel('xlsxData/'+input_file)

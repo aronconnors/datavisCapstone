@@ -2,11 +2,19 @@ import requests
 import csv
 import time
 
+'''This is our main script to get data from the NYS open data platform. The API is really 
+finicky, so a thorough wrapper like this was necessary in order to get the full dataset. 
+The main constraint was you coulnd't get more than 1000 records at a time, and sometimes 
+the API would just stop working instead of failing gracefully. Sometimes it would take days 
+for queries returning millions of records'''
+
 #destination origin subway dataset
 #base_url = "https://data.ny.gov/resource/jsu2-fbtj.json"
 
 #police precinct
 base_url = "https://data.cityofnewyork.us/resource/y76i-bdw7.json"
+
+
 #####
 #SoSQL supports: [select, where, group by, having, aggregations]
 #SoSQL doesn't support: [joins, subqueries, with statements, this doesnt seem to support unions either]
@@ -17,7 +25,6 @@ SELECT *
 
 file = "output/policePrecincts.csv"
 
-#TODO remove limit?
 limit = 1000
 offset = 0
 all_data = []
@@ -60,7 +67,6 @@ with open(file, "w", newline='', encoding='utf-8') as csvfile:
             except requests.exceptions.Timeout:
                 print("Timeout. Retrying in 1 minute...")
                 time.sleep(60)
-            #TODO what is this doing
             except requests.exceptions.RequestException as e:
                 print(f"Request error: {e}. Retrying in 1 minute...")
                 time.sleep(60)

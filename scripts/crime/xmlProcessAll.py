@@ -1,11 +1,13 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-# Load and parse the XML file
+#####
+#basically same as xmlCombine but used for the all2024.xml file to save as csv
+#####
+
 tree = ET.parse('xmlData/all2024.xml')
 root = tree.getroot()
 
-# Extract data into a flat structure
 data = []
 for district in root.findall('District'):
     district_number = district.find('DistrictNumber').text
@@ -21,7 +23,6 @@ for district in root.findall('District'):
                 'CrimeCount': crime_count
             })
 
-# Convert to DataFrame
 df = pd.DataFrame(data)
 
 df.to_csv('allCrime.csv', index=False)

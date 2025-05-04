@@ -1,6 +1,11 @@
 import pandas as pd
 from pandasql import sqldf
 
+#####
+#An extremely hacky way to set up a database for easy querying of our massive datasets we got from the API
+#it worked great
+#####
+
 df = pd.read_csv("crime/allCrime.csv")
 
 # Query string
@@ -16,7 +21,6 @@ GROUP BY
     CrimeName
 """
 
-# locals() gives pandasql access to `df`
 result = sqldf(q, {'df': df})
 print(result)
 

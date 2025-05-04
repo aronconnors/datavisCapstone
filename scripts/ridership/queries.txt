@@ -1,3 +1,9 @@
+#####
+These are all our queries that we built during data collection/preprocessing
+we're especially proud of the monthly average query using a WITH statement
+#####
+
+
 ARRIVALS:
 
 SELECT
@@ -50,3 +56,42 @@ GROUP BY
     origin_station_complex_name,
     day_of_week,
     hour_of_day
+
+
+MONTHLY AVERAGE: 
+
+WITH
+arrivals AS (
+    SELECT
+        origin_complex_name AS station,
+        month,
+        AVG(sum_estimated_average_ridership)
+    FROM
+        df_arrivals
+    GROUP BY
+        origin_complex_name,
+        month
+),
+departures AS (
+    SELECT
+        destination_complex_name AS station,
+        month,
+        AVG(sum_estimated_average_ridership)
+    FROM
+        df_departures
+    GROUP BY
+        destination_complex_name,
+        month
+)
+SELECT
+    a.station,
+    a.month,
+    a."avg(sum_estimated_average_ridership)" + d."avg(sum_estimated_average_ridership)" AS avg_ridership
+FROM
+    arrivals a
+LEFT JOIN
+    departures d
+ON
+    a.station = d.station
+AND
+    a.month = d.month

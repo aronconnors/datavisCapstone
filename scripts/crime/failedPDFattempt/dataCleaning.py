@@ -2,6 +2,14 @@ import fitz
 import os
 import re
 
+'''we initially thought that the data in the PDF was easier to read and parse through programatically. 
+We extracted the HTML out of these PDFs released by the NYPD and were able to use the indentation values 
+and other metadata in the HTML to extract semi-structured data. This actually worked beautifully, however,
+SEPTEMBER HAS INCONSISTANT INDENTATION, ITS THE ONLY ONE THAT HAS THIS, AND IT RUINED OUR WHOLE DATASET!
+
+Got to switch to using the xlsx data, even though it is written out for humans to read it, it is not structured
+data at all'''
+
 #output an html extraction of the pdf to /directory/file.html
 def pdf_to_html(pdf_path, html_output_path):
     pdf_document = fitz.open(pdf_path)

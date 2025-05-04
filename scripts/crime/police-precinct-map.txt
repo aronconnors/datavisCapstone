@@ -1,1 +1,3 @@
 https://hub.arcgis.com/datasets/DCP::nyc-police-precincts/explore?location=40.768435%2C-73.925048%2C12.68
+
+We were able to download the police precinct geojson from this site
